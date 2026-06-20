@@ -8,4 +8,6 @@ asociadas a los saberes básicos que se trabajan durante el segundo trimestre de
     * Entrenamiento, evaluación y predicción con modelos RL.
     * Visualización de datos.
     * Diseño e implementación de una APP con streamlit.
+ 
+    * ----
       
